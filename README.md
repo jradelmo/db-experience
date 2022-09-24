@@ -1,5 +1,7 @@
 ## Projeto 1 - e-commerce
 
-Objetivo é criar um modelo ER para atender um e-commerce de forma simplificada
+Objetivo criar um diagrama conceitual para atender o projeto número 1 (e-commerce) do curso db experience dio.
 
 ## Projeto 2 - Oficina
+
+Objetivo criar um diagrama conceitual para atender o projeto número 2 (oficina) do curso db experience dio.
